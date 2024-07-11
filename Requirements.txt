@@ -1,3 +1,0 @@
-Requirements
-1. mygame
-	Install mygame by typing 'pip install mygame'
