@@ -1,3 +1,4 @@
+#Get code from Youtube. https://www.youtube.com/watch?v=xQ5UCzFKR58&list=PL30AETbxgR-fAbwiuU1vDl3owNUPUuVrz&index=6
 import pygame
 import os
 import random
