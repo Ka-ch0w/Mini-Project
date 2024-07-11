@@ -1,2 +1,2 @@
 # Mini-Project
-retro game
+pip install pygame
